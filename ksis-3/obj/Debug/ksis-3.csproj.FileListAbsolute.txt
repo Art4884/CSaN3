@@ -1,0 +1,14 @@
+C:\developing\projects\С#\ksis-3\ksis-3\bin\Debug\ksis-3.exe.config
+C:\developing\projects\С#\ksis-3\ksis-3\bin\Debug\ksis-3.exe
+C:\developing\projects\С#\ksis-3\ksis-3\bin\Debug\ksis-3.pdb
+C:\developing\projects\С#\ksis-3\ksis-3\obj\Debug\ksis-3.csprojAssemblyReference.cache
+C:\developing\projects\С#\ksis-3\ksis-3\obj\Debug\ksis-3.csproj.CoreCompileInputs.cache
+C:\developing\projects\С#\ksis-3\ksis-3\obj\Debug\ksis-3.exe
+C:\developing\projects\С#\ksis-3\ksis-3\obj\Debug\ksis-3.pdb
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\bin\Debug\ksis-3.exe.config
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\bin\Debug\ksis-3.exe
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\bin\Debug\ksis-3.pdb
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\obj\Debug\ksis-3.csprojAssemblyReference.cache
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\obj\Debug\ksis-3.csproj.CoreCompileInputs.cache
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\obj\Debug\ksis-3.exe
+D:\Учёба\2 курс\2 семестр\ксис\ksis-3\ksis-3\obj\Debug\ksis-3.pdb
